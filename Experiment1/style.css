@@ -1,0 +1,33 @@
+body{
+    background:rgb(241, 240, 240);
+    font-family:Arial;
+    text-align:center;
+    padding:30px
+}
+form{
+    background:white;
+    border:none;
+    border-radius:10px;
+    padding:25px;
+    width:350px;
+    margin:auto;
+    box-shadow:0px 4px 4px #ababab
+}
+label{
+    display:block;
+    text-align:left;
+    font-weight:bold;
+    margin:12px 0 5px
+}
+input{
+    width:95%;
+    padding:7px;
+    border:2px solid #999;
+    border-radius:4px
+}
+.btn{
+    padding:9px 18px;
+    margin:10px 5px;
+    font-weight:bold;
+    cursor:pointer
+}
